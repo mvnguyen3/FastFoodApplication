@@ -1,0 +1,1 @@
+Customer can have 1 cart. Inside the cart we can store many food object.
